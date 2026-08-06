@@ -4,11 +4,6 @@ The ultimate virtual pet, for the **RayNeo X3 Pro** smart glasses. It lives
 in your view, keeps real hours, and — because it rides on your face — it's
 the first pocket pet that actually goes on your walks.
 
-Built native-Android on the patterns proven in `FABLE_X3_STARTER_GUIDE.md`
-and the Tap* suite (TapChess input model, zero dependencies, zero vendor
-AARs, zero binary assets: every chirp is synthesized at first launch and
-every sprite is string-art pixels).
-
 ## The life
 
 A real-time creature that does not pause when you leave. Time passes on the
