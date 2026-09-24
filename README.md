@@ -4,6 +4,12 @@ The ultimate virtual pet, for the **RayNeo X3 Pro** smart glasses. It lives
 in your view, keeps real hours, and — because it rides on your face — it's
 the first pocket pet that actually goes on your walks.
 
+## Screenshot
+
+<p>
+  <img src="images/egg.png" width="45%" alt="Tapogotchi egg stage, LCD-pixel sprite with stat bars and icon toolbar">
+</p>
+
 ## The life
 
 A real-time creature that does not pause when you leave. Time passes on the
